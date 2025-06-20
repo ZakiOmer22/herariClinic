@@ -1,0 +1,52 @@
+;aiu;
+
+[General]
+MessageTitle = Mahurn Clinic Update 
+MessageBody = a New Update is aviavalbe 
+MessageExpirationDate = 20/06/2025
+MessageURI = https://raw.githubusercontent.com/ZakiOmer22/herariClinic/main/updates.txt
+MessageButtonText = Download
+
+[main]
+Name = Herari Clinic Management System V 1.2.0 Update
+ProductVersion = 1.2.0.0
+URL = https://raw.githubusercontent.com/ZakiOmer22/herariClinic/main/updates.txt
+Size = 63630793
+ReleaseDate = 20/06/2025
+SHA256 = 8A4D5F0908E3442C475DC3C65EB5ECCC73FA51AA85E7B1BF151874110A1862A1
+MD5 = 9f54f352c19bb8232e56d616efedaba6
+ServerFileName = ClinicSetup1.2.exe.exe
+Flags = Critical
+RegistryKey = HKUD\Software\eALIF Team\Mahurn Clinic Management System\Version
+Version = 1.2.0.0
+Description = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Description1 = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Description2 = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Description3 = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Description4 = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Description5 = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Description6 = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Description7 = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Description8 = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Description9 = Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer. Open Advanced Installer.
+Feature = Open Advanced Installer.
+Feature1 = Open Advanced Installer.
+Feature2 = Open Advanced Installer.
+Feature3 = Open Advanced Installer.
+Feature4 = Open Advanced Installer.
+Feature5 = Open Advanced Installer.
+Feature6 = Open Advanced Installer.
+Enhancement = Open Advanced Installer.
+Enhancement1 = Open Advanced Installer.
+Enhancement2 = Open Advanced Installer.
+Enhancement3 = Open Advanced Installer.
+Enhancement4 = Open Advanced Installer.
+Enhancement5 = Open Advanced Installer.
+Enhancement6 = Open Advanced Installer.
+BugFix = Open Advanced Installer.
+BugFix1 = Open Advanced Installer.
+BugFix2 = Open Advanced Installer.
+BugFix3 = Open Advanced Installer.
+BugFix4 = Open Advanced Installer.
+BugFix5 = Open Advanced Installer.
+BugFix6 = Open Advanced Installer.
